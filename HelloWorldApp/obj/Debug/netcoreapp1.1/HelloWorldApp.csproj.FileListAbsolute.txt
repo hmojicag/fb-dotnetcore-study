@@ -1,0 +1,8 @@
+C:\Users\hazael.mojica.garcia\repos-haza\fb-dotnetcore-study\HelloWorldApp\bin\Debug\netcoreapp1.1\HelloWorldApp.deps.json
+C:\Users\hazael.mojica.garcia\repos-haza\fb-dotnetcore-study\HelloWorldApp\bin\Debug\netcoreapp1.1\HelloWorldApp.runtimeconfig.json
+C:\Users\hazael.mojica.garcia\repos-haza\fb-dotnetcore-study\HelloWorldApp\bin\Debug\netcoreapp1.1\HelloWorldApp.runtimeconfig.dev.json
+C:\Users\hazael.mojica.garcia\repos-haza\fb-dotnetcore-study\HelloWorldApp\bin\Debug\netcoreapp1.1\HelloWorldApp.dll
+C:\Users\hazael.mojica.garcia\repos-haza\fb-dotnetcore-study\HelloWorldApp\bin\Debug\netcoreapp1.1\HelloWorldApp.pdb
+C:\Users\hazael.mojica.garcia\repos-haza\fb-dotnetcore-study\HelloWorldApp\obj\Debug\netcoreapp1.1\HelloWorldApp.AssemblyInfo.cs
+C:\Users\hazael.mojica.garcia\repos-haza\fb-dotnetcore-study\HelloWorldApp\obj\Debug\netcoreapp1.1\HelloWorldApp.dll
+C:\Users\hazael.mojica.garcia\repos-haza\fb-dotnetcore-study\HelloWorldApp\obj\Debug\netcoreapp1.1\HelloWorldApp.pdb

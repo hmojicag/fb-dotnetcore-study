@@ -1,0 +1,8 @@
+C:\Users\hazael.mojica.garcia\repos-haza\fb-dotnetcore-study\Fundamentals\bin\Debug\netcoreapp1.1\Fundamentals.deps.json
+C:\Users\hazael.mojica.garcia\repos-haza\fb-dotnetcore-study\Fundamentals\bin\Debug\netcoreapp1.1\Fundamentals.runtimeconfig.json
+C:\Users\hazael.mojica.garcia\repos-haza\fb-dotnetcore-study\Fundamentals\bin\Debug\netcoreapp1.1\Fundamentals.runtimeconfig.dev.json
+C:\Users\hazael.mojica.garcia\repos-haza\fb-dotnetcore-study\Fundamentals\bin\Debug\netcoreapp1.1\Fundamentals.dll
+C:\Users\hazael.mojica.garcia\repos-haza\fb-dotnetcore-study\Fundamentals\bin\Debug\netcoreapp1.1\Fundamentals.pdb
+C:\Users\hazael.mojica.garcia\repos-haza\fb-dotnetcore-study\Fundamentals\obj\Debug\netcoreapp1.1\Fundamentals.AssemblyInfo.cs
+C:\Users\hazael.mojica.garcia\repos-haza\fb-dotnetcore-study\Fundamentals\obj\Debug\netcoreapp1.1\Fundamentals.dll
+C:\Users\hazael.mojica.garcia\repos-haza\fb-dotnetcore-study\Fundamentals\obj\Debug\netcoreapp1.1\Fundamentals.pdb
